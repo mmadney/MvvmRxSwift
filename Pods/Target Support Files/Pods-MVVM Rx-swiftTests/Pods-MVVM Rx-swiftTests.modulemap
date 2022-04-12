@@ -1,0 +1,6 @@
+framework module Pods_MVVM_Rx_swiftTests {
+  umbrella header "Pods-MVVM Rx-swiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
